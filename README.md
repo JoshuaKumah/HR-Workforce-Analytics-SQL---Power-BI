@@ -88,6 +88,8 @@ Run sql/01_data_setup_and_cleaning.sql.
 
 Run sql/02_business_questions.sql.
 
+Run sql/03_business_questions.sql.
+
 Export each final query result using the filenames suggested in exports/README.md.
 
 Load the exported results into Power BI.
@@ -95,6 +97,6 @@ Load the exported results into Power BI.
 Add the completed .pbix file to the powerbi folder.
 
 Export a dashboard screenshot and add it to the images folder.
-How has the company's employee count changed over time based on hire and termination dates?
+
 
 What is the tenure distribution for each department?
