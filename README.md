@@ -20,7 +20,7 @@ Data export and preparation for Power BI
 
 Dashboard design and data storytelling
 
-Project status: In progress. Data cleaning and Questions 1–7 have been drafted. Questions 8–11, exported results, and the Power BI dashboard are the remaining stages.
+
 
 Business objective
 
