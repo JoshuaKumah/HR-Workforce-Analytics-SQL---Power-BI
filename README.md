@@ -4,6 +4,10 @@ Project overview
 
 This end-to-end portfolio project uses MySQL to clean, transform, and analyse an employee dataset, followed by Power BI to communicate the findings through an interactive workforce dashboard.
 
+## 📊 Power BI Dashboard
+
+![HR Workforce Analytics Power BI Dashboard](hr-workforce-dashboard.png)
+
 The project is designed to demonstrate practical skills in:
 
 SQL data cleaning and transformation
